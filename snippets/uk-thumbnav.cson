@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-thumbnav'
     'body': """
     <ul class="uk-thumbnav">

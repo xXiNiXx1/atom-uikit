@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-button-group'
     'body': """
     <div class="uk-button-group">

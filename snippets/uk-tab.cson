@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-tab'
     'body': """
     <ul class="uk-tab" data-uk-tab>

@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-thumbnail'
     'body': """
     <figure class="uk-thumbnail">

@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-form-select'
     'body': """
     <div class="uk-form-select" data-uk-form-select>

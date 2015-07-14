@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-accordion'
     'body': """
     <div class="uk-accordion" data-uk-accordion>

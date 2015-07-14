@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-form-row'
     'body': """
     <div class="uk-form-row">

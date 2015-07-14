@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-pagination'
     'body': """
     <ul class="uk-pagination">

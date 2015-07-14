@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-search'
     'body': """
     <form class="uk-search" data-uk-search>

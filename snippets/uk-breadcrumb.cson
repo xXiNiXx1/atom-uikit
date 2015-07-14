@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-breadcrumb'
     'body': """
     <ul class="uk-breadcrumb">

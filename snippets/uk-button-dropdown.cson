@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-button-dropdown'
     'body': """
     <div class="uk-button-dropdown" data-uk-dropdown>

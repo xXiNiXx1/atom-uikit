@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-navbar'
     'body': """
     <nav class="uk-navbar">

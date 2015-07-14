@@ -1,5 +1,5 @@
 '.text.html':
-  'Accordion':
+  'UIkit':
     'prefix': 'uk-modal'
     'body': """
     <a href="#${1:modal}" data-uk-modal="">$2</a>
