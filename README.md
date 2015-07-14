@@ -34,7 +34,7 @@ Take advantage of the autocompletion classes and data-attributes of [uikit](http
 
 ## Changelog
 
-#### Initial release `1.0.0`
+#### Initial release `1.1.3`
 _14 july 2015_
 - Added autocompletion for JS | HTML | CSS
 - Added snippets for core elements and components
