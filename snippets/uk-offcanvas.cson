@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-offcanvas'
+    'body': """
+    <a href="#${1:offcanvas}" data-uk-offcanvas>$2</a>
+    <div id="${1:offcanvas}" class="uk-offcanvas">
+      <div class="uk-offcanvas-bar">$3</div>
+    </div>
+    """

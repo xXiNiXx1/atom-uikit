@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-grid'
+    'body': """
+    <div class="uk-grid">
+      <div class="uk-width-1-2">$1</div>
+      <div class="uk-width-1-2">$2</div>
+    </div>
+    """

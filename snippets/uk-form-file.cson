@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-form-file'
+    'body': """
+    <div class="uk-form-file">
+      <button class="uk-button">$1</button>
+      <input type="file">
+    </div>
+    """

@@ -1,0 +1,13 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-slider'
+    'body': """
+    <div data-uk-slider>
+      <div class="uk-slider-container">
+        <ul class="uk-slider">
+          <li>$1</li>
+          <li>$2</li>
+        </ul>
+      </div>
+    </div>
+    """

@@ -1,0 +1,11 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-accordion'
+    'body': """
+    <div class="uk-accordion" data-uk-accordion>
+      <h3 class="uk-accordion-title">$1</h3>
+      <div class="uk-accordion-content">
+        <p>$2</p>
+      </div>
+    </div>
+    """

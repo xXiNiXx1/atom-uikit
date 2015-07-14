@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-alert'
+    'body': """
+    <div class="uk-alert" data-uk-alert>
+      <a href="#" class="uk-alert-close uk-close"></a>
+      <p>$1</p>
+    </div>
+    """

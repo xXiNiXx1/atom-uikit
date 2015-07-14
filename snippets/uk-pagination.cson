@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-pagination'
+    'body': """
+    <ul class="uk-pagination">
+      <li class="uk-active"><span>$1</span></li>
+      <li><a href="$2">$3</a></li>
+    </ul>
+    """

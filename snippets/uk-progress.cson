@@ -1,0 +1,8 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-progress'
+    'body': """
+    <div class="uk-progress">
+      <div class="uk-progress-bar" style="width: ${1:100}%;">$2</div>
+    </div>
+    """

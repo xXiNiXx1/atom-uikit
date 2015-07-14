@@ -1,0 +1,8 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-subnav'
+    'body': """
+    <ul class="uk-subnav">
+      <li><a href="$1">$2</a></li>
+    </ul>
+    """

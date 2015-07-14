@@ -1,0 +1,13 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-article'
+    'body': """
+    <div class="uk-article">
+      <h1 class="uk-article-title">$1</h1>
+      <p class="uk-article-meta">$2</p>
+      <p class="uk-article-lead">$3</p>
+      <p>$4</p>
+      <hr class="uk-article-divider">
+      <p>$5</p>
+    </div>
+    """

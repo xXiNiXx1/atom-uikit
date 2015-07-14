@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-sortable'
+    'body': """
+    <ul class="uk-sortable" data-uk-sortable>
+      <li>$1</li>
+      <li>$2</li>
+    </ul>
+    """

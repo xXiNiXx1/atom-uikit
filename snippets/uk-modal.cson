@@ -1,0 +1,12 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-modal'
+    'body': """
+    <a href="#${1:modal}" data-uk-modal="">$2</a>
+    <div id="${1:modal}" class="uk-modal">
+      <div class="uk-modal-dialog">
+        <a href="" class="uk-modal-close uk-close"></a>
+        <p>$3</p>
+      </div>
+    </div>
+    """

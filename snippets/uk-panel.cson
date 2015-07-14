@@ -1,0 +1,10 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-panel'
+    'body': """
+    <div class="uk-panel">
+      <div class="uk-panel-badge uk-badge">$1</div>
+      <h3 class="uk-panel-title">$2</h3>
+      <p>$3</p>
+    </div>
+    """

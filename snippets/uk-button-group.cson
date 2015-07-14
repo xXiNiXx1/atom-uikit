@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-button-group'
+    'body': """
+    <div class="uk-button-group">
+      <button class="uk-button">$1</button>
+      <button class="uk-button">$2</button>
+    </div>
+    """

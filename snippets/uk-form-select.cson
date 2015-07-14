@@ -1,0 +1,11 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-form-select'
+    'body': """
+    <div class="uk-form-select" data-uk-form-select>
+      <span>$1</span>
+      <select>
+        <option value="$2">$3</option>
+      </select>
+    </div>
+    """

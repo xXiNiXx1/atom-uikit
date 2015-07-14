@@ -1,0 +1,14 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-nestable'
+    'body': """
+    <ul class="uk-nestable" data-uk-nestable>
+      <li>
+        <div class="uk-nestable-item">
+          <div class="uk-nestable-handle">$1</div>
+          <div data-nestable-action="toggle">$2</div>
+          <span>$3</span>
+        </div>
+      </li>
+    </ul>
+    """

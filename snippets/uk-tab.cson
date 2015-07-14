@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-tab'
+    'body': """
+    <ul class="uk-tab" data-uk-tab>
+      <li class="uk-active"><a href="$1">$2</a></li>
+      <li><a href="$3">$4</a></li>
+    </ul>
+    """

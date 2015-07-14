@@ -1,0 +1,11 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-navbar'
+    'body': """
+    <nav class="uk-navbar">
+      <ul class="uk-navbar-nav">
+        <li class="uk-active"><a href="$1">$2</a></li>
+        <li><a href="$3">$4</a></li>
+      </ul>
+    </nav>
+    """

@@ -1,0 +1,8 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-search'
+    'body': """
+    <form class="uk-search" data-uk-search>
+      <input class="uk-search-field" type="search" placeholder="$1">
+    </form>
+    """

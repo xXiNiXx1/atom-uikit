@@ -1,0 +1,11 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-form-row'
+    'body': """
+    <div class="uk-form-row">
+      <label class="uk-form-label" for="$1">$2</label>
+      <div class="uk-form-controls">
+        <input type="text" id="$1" placeholder="$2">
+      </div>
+    </div>
+    """

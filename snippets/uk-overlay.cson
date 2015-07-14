@@ -1,0 +1,9 @@
+'.text.html':
+  'Accordion':
+    'prefix': 'uk-overlay'
+    'body': """
+    <a class="uk-overlay" href="$1">
+      <img src="$2" alt="$3">
+      <div class="uk-overlay-panel">$4</div>
+    </a>
+    """

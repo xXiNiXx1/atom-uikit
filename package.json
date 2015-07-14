@@ -1,0 +1,14 @@
+{
+  "name": "atom-uikit",
+  "version": "1.0.0",
+  "description": "UIkit support with snippets and autocopletion for Atom editor.",
+  "activationCommands": {
+    "atom-uikit": "toggle"
+  },
+  "repository": "https://github.com/nicovdb/atom-uikit.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
