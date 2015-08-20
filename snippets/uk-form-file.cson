@@ -1,4 +1,4 @@
-'.text.html':
+'.text.html, .text.html.php, .source.php':
   'UIkit Form File':
     'prefix': 'uk-form-file'
     'body': """
