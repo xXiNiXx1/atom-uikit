@@ -1,6 +1,6 @@
 {
   "name": "atom-uikit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "UIkit support with snippets and autocompletion for Atom editor.",
   "activationCommands": {
     "atom-uikit": "toggle"

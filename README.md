@@ -34,6 +34,10 @@ Take advantage of the autocompletion classes and data-attributes of [uikit](http
 
 ## Changelog
 
+### Upgraded HTML template `1.2.1`
+_03 jan 2016_
+- Upgraded HTML5 Shiv and Respond.js script reference in HTML template
+
 #### Initial release `1.1.3`
 _14 july 2015_
 - Added autocompletion for JS | HTML | CSS
