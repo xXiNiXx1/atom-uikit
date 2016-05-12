@@ -11,3 +11,13 @@
       </div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-slider'
+    'body': """
+    div(data-uk-slider="")
+      div.uk-slider-container
+        ul.uk-slider
+          li $1
+          li $2
+    """

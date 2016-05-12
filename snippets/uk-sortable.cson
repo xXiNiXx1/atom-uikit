@@ -7,3 +7,11 @@
       <li>$2</li>
     </ul>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-sortable'
+    'body': """
+    ul.uk-sortable(data-uk-sortable)
+      li $1
+      li $2
+    """

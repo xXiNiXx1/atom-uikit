@@ -7,3 +7,13 @@
       <li><a href="$3">$4</a></li>
     </ul>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-nav'
+    'body': """
+    ul.uk-nav
+      li.uk-active
+        a(href="$1") $2
+      li
+        a(href="$3") $4
+    """

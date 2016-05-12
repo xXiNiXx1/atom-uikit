@@ -10,3 +10,13 @@
       </div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-modal'
+    'body': """
+    a(href="#${1:modal}" data-uk-modal="") $2
+    div.uk-modal#${1:modal}
+      div.uk-modal-dialog
+        a.uk-modal-close.uk-close(href="")
+        p $3
+    """

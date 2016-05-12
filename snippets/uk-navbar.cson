@@ -9,3 +9,14 @@
       </ul>
     </nav>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-navbar'
+    'body': """
+    nav.uk-navbar
+      ul.uk-navbar-nav
+        li.uk-active
+          a(href="$1") $2
+        li
+          a(href="$3") $4
+    """

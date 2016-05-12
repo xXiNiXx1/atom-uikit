@@ -6,3 +6,10 @@
       <input class="uk-search-field" type="search" placeholder="$1">
     </form>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-search'
+    'body': """
+    form.uk-search(data-uk-search="")
+      input.uk-search-field(type="search" placeholder="$1")
+    """

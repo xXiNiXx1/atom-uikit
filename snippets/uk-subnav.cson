@@ -6,3 +6,11 @@
       <li><a href="$1">$2</a></li>
     </ul>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-subnav'
+    'body': """
+    ul.uk-subnav
+      li
+        a(href="$1") $2
+    """

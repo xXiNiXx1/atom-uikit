@@ -7,3 +7,11 @@
       <p>$1</p>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-alert'
+    'body': """
+    div.uk-alert(data-uk-alert="")
+      a.uk-alert-close.uk-close(href="#")
+      p $1
+    """

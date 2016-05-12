@@ -11,3 +11,14 @@
       </div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-button-dropdown'
+    'body': """
+    div.uk-button-dropdown(data-uk-dropdown="")
+      button.uk-button $1
+      div.uk-dropdown.uk-dropdown-small
+        ul.uk-nav.uk-nav-dropdown
+          li
+            a(href="$2") $3
+    """

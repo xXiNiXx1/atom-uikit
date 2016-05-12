@@ -33,3 +33,27 @@
       </body>
     </html>
     """
+'.source.jade':
+  'UIkit HTML Template':
+    'prefix': 'ukhtml'
+    'body': """
+    doctype html
+    html
+      head
+        meta(charset="utf-8")
+        meta(http-equiv="X-UA-Compatible" content="IE=edge,chrome=1)
+        meta(name="viewport" content="width=device-width, initial-scale=1)
+
+        title $1
+
+        link(href="/favicon.ico" rel="shortcut icon")
+
+        // link all the styles
+        link(rel="stylesheet" href="assets/css/uikit.min.css")
+
+        // link all the scripts
+        script(src="assets/js/jquery.js")
+        script(src="assets/js/uikit.min.js")
+      body
+        $2
+    """

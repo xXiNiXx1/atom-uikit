@@ -11,3 +11,13 @@
       </div>
     </form>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-form'
+    'body': """
+    form.uk-form
+      div.uk-form-row
+        label.uk-form-label(for="$1") $2
+        div.uk-form-controls
+          input(type="text" id="$1" placeholder="$2")
+    """
