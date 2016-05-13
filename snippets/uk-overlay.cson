@@ -7,3 +7,11 @@
       <div class="uk-overlay-panel">$4</div>
     </a>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-overlay'
+    'body': """
+    a.uk-overlay(href="$1")
+      img(src="$2" alt="$3")
+      div.uk-overlay-panel $4
+    """

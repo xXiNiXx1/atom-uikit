@@ -7,3 +7,11 @@
       <input type="file">
     </div>
     """
+'.source.jade':
+  'UIkit Form File':
+    'prefix': 'uk-form-file'
+    'body': """
+    div.uk-form-file
+      button.uk-button $1
+      input(type="file")
+    """

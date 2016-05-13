@@ -12,3 +12,15 @@
       <div class="uk-width-1-2">$4</div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-grid-divider'
+    'body': """
+    div.uk-grid.uk-grid-divider
+      div.uk-width-1-2 $1
+      div.uk-width-1-2 $2
+    hr.uk-grid-divider
+    div.uk-grid.uk-grid-divider
+      div.uk-width-1-2 $3
+      div.uk-width-1-2 $4
+    """

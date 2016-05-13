@@ -7,3 +7,11 @@
       <div class="uk-width-1-2">$2</div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-grid'
+    'body': """
+    div.uk-grid
+      div.uk-width-1-2 $1
+      div.uk-width-1-2 $2
+    """

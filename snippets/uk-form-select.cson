@@ -9,3 +9,12 @@
       </select>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-form-select'
+    'body': """
+    div.uk-form-select(data-uk-form-select="")
+      span $1
+      select
+        option(value="$2") $3
+    """

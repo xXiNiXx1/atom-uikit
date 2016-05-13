@@ -8,3 +8,12 @@
       <p>$3</p>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-panel'
+    'body': """
+    div.uk-panel
+      div.uk-panel-badge.uk-badge $1
+      h3.uk-panel-title $2
+      p $3
+    """

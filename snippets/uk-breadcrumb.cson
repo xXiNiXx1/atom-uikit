@@ -8,3 +8,15 @@
       <li class="uk-active"><span>$4</span></li>
     </ul>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-breadcrumb'
+    'body': """
+    ul.uk-breadcrumb
+      li
+        a(href="$1") $2
+      li
+        span $3
+      li.uk-active
+        span $4
+    """

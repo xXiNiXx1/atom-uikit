@@ -9,3 +9,12 @@
       </div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-accordion'
+    'body': """
+    div.uk-accordion(data-uk-accordion="")>
+      h3.uk-accordion-title $1
+      div.uk-accordion-content
+        p $2
+    """

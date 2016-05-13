@@ -7,3 +7,11 @@
       <button class="uk-button">$2</button>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-button-group'
+    'body': """
+    div.uk-button-group
+      button.uk-button $1
+      button.uk-button $2
+    """

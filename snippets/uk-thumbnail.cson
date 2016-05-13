@@ -7,3 +7,11 @@
       <figcaption class="uk-thumbnail-caption">$3</figcaption>
     </figure>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-thumbnail'
+    'body': """
+    figure.uk-thumbnail
+      img(src="$1" alt="$2")
+      figcaption.uk-thumbnail-caption $3
+    """

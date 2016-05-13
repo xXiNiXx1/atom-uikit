@@ -11,3 +11,15 @@
       <p>$5</p>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-article'
+    'body': """
+    div.uk-article
+      h1.uk-article-title $1
+      p.uk-article-meta $2
+      p.uk-article-lead $3
+      p $4
+      hr.uk-article-divider
+      p $5
+    """

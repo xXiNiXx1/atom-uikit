@@ -7,3 +7,11 @@
       <div class="uk-offcanvas-bar">$3</div>
     </div>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-offcanvas'
+    'body': """
+    a(href="#${1:offcanvas}" data-uk-offcanvas="") $2
+    div#${1:offcanvas}.uk-offcanvas
+      div.uk-offcanvas-bar $3
+    """

@@ -12,3 +12,14 @@
       </li>
     </ul>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-nestable'
+    'body': """
+    ul.uk-nestable(data-uk-nestable="")
+      li
+        div.uk-nestable-item
+          div.uk-nestable-handle $1
+          div(data-nestable-action="toggle") $2
+          span $3
+    """

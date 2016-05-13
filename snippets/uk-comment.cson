@@ -13,3 +13,15 @@
       </div>
     </article>
     """
+'.source.jade':
+  'UIkit':
+    'prefix': 'uk-comment'
+    'body': """
+    article.uk-comment
+      header.uk-comment-header
+        img.uk-comment-avatar(src="$1" width="50" height="50" alt="")
+        h4.uk-comment-title $2
+        div.uk-comment-meta $3
+      div.uk-comment-body
+        p $4
+    """
