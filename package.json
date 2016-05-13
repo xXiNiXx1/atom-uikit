@@ -5,7 +5,7 @@
   "activationCommands": {
     "atom-uikit": "toggle"
   },
-  "repository": "https://github.com/nicovdb/atom-uikit.git",
+  "repository": "https://github.com/xXiNiXx1/atom-uikit.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

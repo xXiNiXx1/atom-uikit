@@ -34,6 +34,10 @@ Take advantage of the autocompletion classes and data-attributes of [uikit](http
 
 ## Changelog
 
+### Added Jade support `1.2.2`
+_13 may 2016_
+- Added support for Jade (thx to **Legend28469**)
+
 ### Upgraded HTML template `1.2.1`
 _03 jan 2016_
 - Upgraded HTML5 Shiv and Respond.js script reference in HTML template
