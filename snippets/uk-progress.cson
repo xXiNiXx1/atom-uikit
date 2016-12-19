@@ -6,7 +6,7 @@
       <div class="uk-progress-bar" style="width: ${1:100}%;">$2</div>
     </div>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-progress'
     'body': """

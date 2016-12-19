@@ -12,7 +12,7 @@
       </li>
     </ul>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-nestable'
     'body': """

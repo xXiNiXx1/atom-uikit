@@ -7,7 +7,7 @@
       <li>$2</li>
     </ul>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-sortable'
     'body': """

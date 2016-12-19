@@ -6,7 +6,7 @@
       <li><a href="$1">$2</a></li>
     </ul>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-subnav'
     'body': """

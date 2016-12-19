@@ -7,7 +7,7 @@
       <input type="file">
     </div>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit Form File':
     'prefix': 'uk-form-file'
     'body': """

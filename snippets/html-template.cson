@@ -33,7 +33,7 @@
       </body>
     </html>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit HTML Template':
     'prefix': 'ukhtml'
     'body': """

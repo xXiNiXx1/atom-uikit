@@ -10,7 +10,7 @@
       </div>
     </div>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-modal'
     'body': """
