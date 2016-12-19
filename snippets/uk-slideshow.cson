@@ -6,7 +6,7 @@
       <li><img src="$1" width="$2" height="$3" alt="$4"></li>
     </ul>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-slideshow'
     'body': """

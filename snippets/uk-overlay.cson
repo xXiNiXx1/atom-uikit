@@ -7,7 +7,7 @@
       <div class="uk-overlay-panel">$4</div>
     </a>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-overlay'
     'body': """

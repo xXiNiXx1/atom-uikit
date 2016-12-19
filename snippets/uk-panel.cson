@@ -8,7 +8,7 @@
       <p>$3</p>
     </div>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-panel'
     'body': """

@@ -11,7 +11,7 @@
       <p>$5</p>
     </div>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-article'
     'body': """

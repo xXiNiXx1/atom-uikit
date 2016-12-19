@@ -7,7 +7,7 @@
       <div class="uk-width-1-2">$2</div>
     </div>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-grid'
     'body': """

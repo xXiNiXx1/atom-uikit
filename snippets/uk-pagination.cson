@@ -7,7 +7,7 @@
       <li><a href="$2">$3</a></li>
     </ul>
     """
-'.source.jade':
+'.source.jade,.source.pug':
   'UIkit':
     'prefix': 'uk-pagination'
     'body': """
