@@ -1,4 +1,4 @@
-'.text.html, .source.jade, .text.css, .source.js, .text.html.php, .source.php':
+'.text.html, .source.jade, .text.css, .source.js, .text.html.php, .source.php, text.html.erb':
   'editor':
     'completions': [
       # UIkit classes
